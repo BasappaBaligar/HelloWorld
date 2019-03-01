@@ -1,3 +1,5 @@
 Added another file to test by creating the branch. First you need to create branch and start working on it ok. The way to start working on the same code base but with different branch. 
 
 Lets see how to do this.
+
+I am editing the file added in the new branch, now it should change only in the new branch until I push it to main branch. That is master branch.
